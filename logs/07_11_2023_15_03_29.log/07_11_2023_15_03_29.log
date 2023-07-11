@@ -1,0 +1,10 @@
+[ 2023-07-11 15:03:32,013 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-11 15:03:32,028 ] 187 werkzeug - INFO -  * Debugger PIN: 104-727-224
+[ 2023-07-11 15:03:35,379 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 15:03:35] "GET / HTTP/1.1" 200 -
+[ 2023-07-11 15:03:36,378 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 15:03:36] "GET / HTTP/1.1" 200 -
+[ 2023-07-11 15:03:44,609 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 15:03:44] "GET / HTTP/1.1" 200 -
+[ 2023-07-11 15:03:54,108 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 15:03:54] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+[ 2023-07-11 15:04:13,822 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 15:04:13] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+[ 2023-07-11 15:04:13,971 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 15:04:13] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-07-11 15:04:14,177 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 15:04:14] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-07-11 15:04:14,615 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 15:04:14] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

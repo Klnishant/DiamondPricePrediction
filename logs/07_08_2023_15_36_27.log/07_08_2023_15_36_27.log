@@ -1,0 +1,3 @@
+[ 2023-07-08 15:36:28,415 ] 24 root - INFO - Data Ingestiation Starts
+[ 2023-07-08 15:36:28,542 ] 28 root - INFO - Datasets read as pandas dataframe
+[ 2023-07-08 15:36:28,542 ] 46 root - INFO - Error Occured In Data Ingestion
